@@ -1,4 +1,4 @@
-FROM martialblog/limesurvey:4.3.11_200817-fpm-alpine
+FROM martialblog/limesurvey:4.3.11_200817-apache
 LABEL Maintainer="Douglas Andrade <douglasanpa@gmail.com>" \
       Description="Fixes for limesurvey."
 
